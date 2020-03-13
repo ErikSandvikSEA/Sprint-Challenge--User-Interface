@@ -304,3 +304,14 @@ nav{
 hr{
    border-top: 1.5px dashed black; 
 }
+.square-styles img:hover, .jumbo-about img:hover{
+    animation: pulse 5s infinite;
+}
+@keyframes pulse {
+    0% {
+        border: 2px red solid;
+    }
+    100%{
+        border: 3px blue dashed;
+    }
+}
