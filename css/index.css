@@ -269,12 +269,12 @@ nav{
 .square-styles{
     width: 48%;
     display: flex;
-    flex-wrap: wrap;
+    
     flex-direction: column;
     border-bottom: 1.5px dashed black;
-    justify-content: space-between;
+    justify-content: space-around;
     padding: 3% 0;
-    height: 65vh
+    height: 450px;
     
 }
 .square-styles p{
