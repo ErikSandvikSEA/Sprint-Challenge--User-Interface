@@ -148,6 +148,9 @@ header{
 nav{
     display: flex;
 }
+.jumbo{
+    margin-bottom: 3%;
+}
 .about-links{
     display: flex;
     width: 100%;
