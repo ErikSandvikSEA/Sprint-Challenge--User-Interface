@@ -315,3 +315,37 @@ hr{
         border: 3px blue dashed;
     }
 }
+address{
+    font-style: normal;
+}
+address a{
+    text-decoration: none;
+}
+address h2{
+    font-family: 'Rubik', sans-serif;
+}
+.cool-tech-office:{
+    width: 20%;
+
+}
+.contact-page-body{
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+    position: relative;
+    left: 15%;
+}
+.address-and-pic{
+    width: 40%;
+}
+.email{
+    width: 100%;
+}
+.email a{
+    color: black;
+    border: 3px solid red;
+    text-decoration: none;
+    border-radius: 20px;
+    padding: 5%;
+    font-size: 10px;
+}
